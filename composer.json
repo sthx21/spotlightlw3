@@ -6,12 +6,12 @@
         "laravel",
         "spotlight"
     ],
-    "homepage": "https://github.com/livewire-ui/spotlight",
+    "homepage": "https://github.com/sthx21/spotlightlw3",
     "license": "MIT",
     "authors": [
         {
-            "name": "Philo Hermans",
-            "email": "me@philohermans.com",
+            "name": "Collin Scholl",
+            "email": "dev@easier-solutions.de",
             "role": "Developer"
         }
     ],
