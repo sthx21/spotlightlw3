@@ -1,9 +1,7 @@
 {
     "name": "sthx21/spotlightlw3",
-    "description": "Livewire component that provides Spotlight/Alfred-like functionality to your Laravel application.",
+    "description": "Livewire 3 spotlight.",
     "keywords": [
-        "livewire-ui",
-        "laravel",
         "spotlight"
     ],
     "homepage": "https://github.com/sthx21/spotlightlw3",
